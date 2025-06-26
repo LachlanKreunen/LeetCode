@@ -26,7 +26,8 @@ class Solution {
         StringBuilder end = new StringBuilder();
         for (int j = result.size() - 1; j >= 0; j--) {
             end.append(result.get(j));
-            if (j > 0) end.append(" ");
+            if(j > 0)
+                end.append(" ");
         }
 
         return end.toString();
