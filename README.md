@@ -76,4 +76,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/LachlanKreunen/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/LachlanKreunen/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
